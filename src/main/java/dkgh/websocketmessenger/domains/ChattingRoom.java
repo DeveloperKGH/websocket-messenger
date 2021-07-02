@@ -2,17 +2,17 @@ package dkgh.websocketmessenger.domains;
 
 import lombok.*;
 
+import java.util.List;
+
 @Getter
 @Setter
 @Builder
 @ToString
 @EqualsAndHashCode
-public class Message {
+public class ChattingRoom {
 
-    private MessageType type;
+    private List<String> users;
 
-    private String content;
-
-    private String sender;
+    private Message message;
 
 }
