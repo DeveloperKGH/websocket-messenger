@@ -15,7 +15,6 @@
 
 ---------------------------------------------------
 ## 소개
-![1](https://user-images.githubusercontent.com/65940338/125393732-6f573680-e3e3-11eb-9e2f-9ad7cbfdeb02.JPG)
-![2](https://user-images.githubusercontent.com/65940338/125393837-a1689880-e3e3-11eb-9c39-da05c9c1813b.JPG)
-
+![1](https://user-images.githubusercontent.com/65940338/125401991-d6c6b380-e3ee-11eb-8d6b-54a0a6ffe72b.JPG)
+![2](https://user-images.githubusercontent.com/65940338/125402010-dcbc9480-e3ee-11eb-9a65-688d5f27b8ad.JPG)
 
