@@ -50,9 +50,13 @@ public class ChatController {
 
     @MessageMapping("/receive")
     @SendTo("/send")
-    public Message sendChatting(Message message) {
+    public ChattingRoom send(Message message) {
         log.debug("msg : {}", message);
-        return message;
+        List<String> users = memberService.findAllNickNames();
+        return ChattingRoom.builder()
+                .users(users)
+                .message(message)
+                .build();
     }
 
 }
